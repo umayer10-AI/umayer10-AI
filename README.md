@@ -5,7 +5,7 @@
 
 <img width="1024" height="256" alt="image" src="https://github.com/user-attachments/assets/bcbc4c62-5dd8-4547-8a8b-049f7a72fc15" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umayer10-ai" alt="umayer10-ai" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umayer10-ai" alt="umayer10-ai" /></a> </p> -->
 
 - 🌱 I’m currently learning **Next.js**
 
