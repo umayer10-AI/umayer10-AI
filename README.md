@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Umayer Ahmad</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umayer10-ai&label=Profile%20views&color=0e75b6&style=flat" alt="umayer10-ai" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=umayer10-ai&label=Profile%20views&color=0e75b6&style=flat" alt="umayer10-ai" /> </p> -->
+
+<img width="1024" height="256" alt="image" src="https://github.com/user-attachments/assets/bcbc4c62-5dd8-4547-8a8b-049f7a72fc15" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umayer10-ai" alt="umayer10-ai" /></a> </p>
 
@@ -22,4 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umayer10-ai&show_icons=true&locale=en" alt="umayer10-ai" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umayer10-ai&" alt="umayer10-ai" /></p>
-<img width="1024" height="256" alt="image" src="https://github.com/user-attachments/assets/bcbc4c62-5dd8-4547-8a8b-049f7a72fc15" />
+
