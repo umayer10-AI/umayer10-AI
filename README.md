@@ -23,5 +23,70 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umayer10-ai&show_icons=true&locale=en" alt="umayer10-ai" /></p>
 
+# 🚀 About Me
+
+Hi, I’m **Umayer Ahmad** — a Frontend Web Development & Backend-focused learner building real-world projects to become job-ready.
+
+I focus on writing **semantic, accessible HTML** and building **responsive layouts** using CSS (Flexbox & Grid). I maintain a clean and consistent UI while improving performance and structure.
+
+Currently, I’m strengthening my **JavaScript fundamentals** — DOM manipulation, events, and interactive features to create user-friendly web experiences.
+
+I regularly build projects to improve **code quality, responsiveness, and maintainable structure** following real-world frontend workflows.
+
+🎯 I’m preparing for a **Junior Frontend Developer role** and ready to learn fast, collaborate, and deliver production-ready UI.
+
+---
+
+## 📚 Currently Learning
+
+- HTML & CSS (Layout, Responsive Design, Clean UI)
+- JavaScript (DOM, Events, Real-world projects)
+
+---
+
+## ✅ What I’m Focusing On
+
+- Clean & responsive UI (Mobile-first)
+- Semantic HTML structure
+- CSS Layout (Flexbox / Grid)
+- Reusable styles
+- JavaScript basics (DOM, Events, ES6)
+
+---
+
+## 🧩 Projects I’ve Built
+
+- ✅ E-Commerce Website  
+- ✅ Business Website  
+- ✅ Blog Website  
+- ✅ Personal Website  
+- ✅ One-page Website  
+- ✅ Product Website  
+- ✅ Gym Website  
+- ✅ Portfolio Website  
+
+---
+
+## 🎯 Next Goals
+
+- Build JavaScript projects (Todo / Calculator / API-based)
+- Start learning React with real UI components
+
+---
+
+## 🖥️ Technologies I Work With
+
+`C++` `C` `Git` `VS Code` `HTML5` `CSS3` `TailwindCSS` `JavaScript` `React` `Node.js` `MongoDB` `Figma`
+
+---
+
+## 📧 Connect with Me
+
+- Facebook  
+- YouTube  
+- Instagram  
+- Twitter  
+- LinkedIn  
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umayer10-ai&" alt="umayer10-ai" /></p>
 
