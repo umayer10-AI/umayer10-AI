@@ -99,6 +99,7 @@ I regularly build projects to improve **code quality, responsiveness, and mainta
   </a>
 </p>
 
+---
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umayer10-ai&" alt="umayer10-ai" /></p>
 
