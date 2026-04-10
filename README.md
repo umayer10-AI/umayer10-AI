@@ -85,16 +85,16 @@ I regularly build projects to improve **code quality, responsiveness, and mainta
 ## 📧 Connect with me!
 
 <p align="left">
-  <a href="https://facebook.com/yourusername">
+  <a href="https://www.facebook.com/md.umayer.545">
     <img src="https://img.icons8.com/color/48/facebook.png" width="40"/>
   </a>
   <a href="https://instagram.com/yourusername">
     <img src="https://img.icons8.com/color/48/instagram-new.png" width="40"/>
   </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.icons8.com/color/48/twitter.png" width="40"/>
+  <a href="https://x.com/Umayer721564">
+    <img src="https://img.icons8.com/color/48/x.png" width="40"/>
   </a>
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://www.linkedin.com/in/umayer-ahmad/">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
   </a>
 </p>
