@@ -78,10 +78,6 @@ I regularly build projects to improve **code quality, responsiveness, and mainta
 
 ## 🖥️ Technologies I Work With
 
-`C++` `C` `Git` `HTML5` `CSS3` `TailwindCSS` `JavaScript` `React` `Next.js`
-
-## 🖥️ Technologies I Work With
-
 ![My Skills](https://skillicons.dev/icons?i=cpp,c,git,vscode,html,css,react,tailwind,js,nodejs,mongodb,figma)
 
 ---
@@ -103,12 +99,6 @@ I regularly build projects to improve **code quality, responsiveness, and mainta
   </a>
 </p>
 
-## 📧 Connect with Me
-
-- Facebook   
-- Instagram  
-- Twitter  
-- LinkedIn  
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umayer10-ai&" alt="umayer10-ai" /></p>
 
