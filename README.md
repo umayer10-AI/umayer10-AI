@@ -84,6 +84,47 @@ I regularly build projects to improve **code quality, responsiveness, and mainta
 
 ---
 
+
+
+<!-- <div align="center">
+
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/umayer10-AI/umayer10-AI/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+
+</div> -->
+
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"> GITHUB STATISTICS & ANALYSIS:
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/umayer10-AI/umayer10-AI/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+
+</div>
+
+<!-- <div align="center">
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/umayer10-AI/umayer10-AI/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/umayer10-AI/umayer10-AI/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/umayer10-AI/umayer10-AI/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div> -->
+
+
+
 ## 🖥️ Technologies I Work With
 
 ![My Skills](https://skillicons.dev/icons?i=cpp,c,git,vscode,html,css,react,tailwind,js,nodejs,mongodb,figma)
